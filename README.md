@@ -1,2 +1,3 @@
-# Command line Straights game
-# Uses MVC design pattern
+# Straights
+- Uses MVC design pattern
+- Command line game
